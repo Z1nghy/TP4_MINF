@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\savar\\OneDrive - Education Vaud\\ETML_ES\\Minf_Tp4\\Minf_Tp4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0BAC7295-05B3-482A-99F1-08C627B07AAF}|Minf_Tp4.csproj|C:\\Users\\savar\\OneDrive - Education Vaud\\ETML_ES\\Minf_Tp4\\Minf_Tp4\\signal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BAC7295-05B3-482A-99F1-08C627B07AAF}|Minf_Tp4.csproj|solutionrelative:signal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BAC7295-05B3-482A-99F1-08C627B07AAF}|Minf_Tp4.csproj|c:\\users\\savar\\onedrive - education vaud\\etml_es\\minf_tp4\\minf_tp4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BAC7295-05B3-482A-99F1-08C627B07AAF}|Minf_Tp4.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BAC7295-05B3-482A-99F1-08C627B07AAF}|Minf_Tp4.csproj|C:\\Users\\savar\\OneDrive - Education Vaud\\ETML_ES\\Minf_Tp4\\Minf_Tp4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BAC7295-05B3-482A-99F1-08C627B07AAF}|Minf_Tp4.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BAC7295-05B3-482A-99F1-08C627B07AAF}|Minf_Tp4.csproj|C:\\Users\\savar\\OneDrive - Education Vaud\\ETML_ES\\Minf_Tp4\\Minf_Tp4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0BAC7295-05B3-482A-99F1-08C627B07AAF}|Minf_Tp4.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BAC7295-05B3-482A-99F1-08C627B07AAF}|Minf_Tp4.csproj|C:\\Users\\savar\\OneDrive - Education Vaud\\ETML_ES\\Minf_Tp4\\Minf_Tp4\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BAC7295-05B3-482A-99F1-08C627B07AAF}|Minf_Tp4.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\savar\\OneDrive - Education Vaud\\ETML_ES\\Minf_Tp4\\Minf_Tp4\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\savar\\OneDrive - Education Vaud\\ETML_ES\\Minf_Tp4\\Minf_Tp4\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAAE4CAAAAAAAAAAAgwBYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T17:47:45.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Signal.cs",
+              "DocumentMoniker": "C:\\Users\\savar\\OneDrive - Education Vaud\\ETML_ES\\Minf_Tp4\\Minf_Tp4\\Signal.cs",
+              "RelativeDocumentMoniker": "Signal.cs",
+              "ToolTip": "C:\\Users\\savar\\OneDrive - Education Vaud\\ETML_ES\\Minf_Tp4\\Minf_Tp4\\Signal.cs",
+              "RelativeToolTip": "Signal.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAA6wIMAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T15:38:55.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\savar\\OneDrive - Education Vaud\\ETML_ES\\Minf_Tp4\\Minf_Tp4\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\savar\\OneDrive - Education Vaud\\ETML_ES\\Minf_Tp4\\Minf_Tp4\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T15:38:55.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\savar\\OneDrive - Education Vaud\\ETML_ES\\Minf_Tp4\\Minf_Tp4\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\savar\\OneDrive - Education Vaud\\ETML_ES\\Minf_Tp4\\Minf_Tp4\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAK8AAAAAAAAAAAAswMEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T15:38:55.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\savar\\OneDrive - Education Vaud\\ETML_ES\\Minf_Tp4\\Minf_Tp4\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\savar\\OneDrive - Education Vaud\\ETML_ES\\Minf_Tp4\\Minf_Tp4\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T15:38:55.886Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
