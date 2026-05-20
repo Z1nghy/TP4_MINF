@@ -1,0 +1,133 @@
+C:\DSY\MINF\TP4\Minf_Tp4\bin\Debug\Minf_Tp4.exe.config
+C:\DSY\MINF\TP4\Minf_Tp4\bin\Debug\Minf_Tp4.exe
+C:\DSY\MINF\TP4\Minf_Tp4\bin\Debug\Minf_Tp4.pdb
+C:\DSY\MINF\TP4\Minf_Tp4\obj\Debug\Minf_Tp4.csproj.AssemblyReference.cache
+C:\DSY\MINF\TP4\Minf_Tp4\obj\Debug\Minf_Tp4.csproj.SuggestedBindingRedirects.cache
+C:\DSY\MINF\TP4\Minf_Tp4\obj\Debug\Minf_Tp4.Form1.resources
+C:\DSY\MINF\TP4\Minf_Tp4\obj\Debug\Minf_Tp4.Properties.Resources.resources
+C:\DSY\MINF\TP4\Minf_Tp4\obj\Debug\Minf_Tp4.csproj.GenerateResource.cache
+C:\DSY\MINF\TP4\Minf_Tp4\obj\Debug\Minf_Tp4.csproj.CoreCompileInputs.cache
+C:\DSY\MINF\TP4\Minf_Tp4\obj\Debug\Minf_Tp4.exe
+C:\DSY\MINF\TP4\Minf_Tp4\obj\Debug\Minf_Tp4.pdb
+C:\DSY\MINF\TP4\Minf_Tp4\bin\Debug\Guna.UI2.dll
+C:\DSY\MINF\TP4\Minf_Tp4\bin\Debug\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\DSY\MINF\TP4\Minf_Tp4\bin\Debug\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\DSY\MINF\TP4\Minf_Tp4\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\DSY\MINF\TP4\Minf_Tp4\bin\Debug\Newtonsoft.Json.dll
+C:\DSY\MINF\TP4\Minf_Tp4\bin\Debug\QRCoder.dll
+C:\DSY\MINF\TP4\Minf_Tp4\bin\Debug\SiticoneNetFrameworkUI.dll
+C:\DSY\MINF\TP4\Minf_Tp4\bin\Debug\System.Buffers.dll
+C:\DSY\MINF\TP4\Minf_Tp4\bin\Debug\System.Collections.Immutable.dll
+C:\DSY\MINF\TP4\Minf_Tp4\bin\Debug\System.IO.Pipelines.dll
+C:\DSY\MINF\TP4\Minf_Tp4\bin\Debug\System.Memory.dll
+C:\DSY\MINF\TP4\Minf_Tp4\bin\Debug\System.Numerics.Vectors.dll
+C:\DSY\MINF\TP4\Minf_Tp4\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\DSY\MINF\TP4\Minf_Tp4\bin\Debug\System.Text.Encodings.Web.dll
+C:\DSY\MINF\TP4\Minf_Tp4\bin\Debug\System.Text.Json.dll
+C:\DSY\MINF\TP4\Minf_Tp4\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\DSY\MINF\TP4\Minf_Tp4\bin\Debug\System.ValueTuple.dll
+C:\DSY\MINF\TP4\Minf_Tp4\bin\Debug\Microsoft.AspNetCore.Cryptography.Internal.xml
+C:\DSY\MINF\TP4\Minf_Tp4\bin\Debug\Microsoft.AspNetCore.Cryptography.KeyDerivation.xml
+C:\DSY\MINF\TP4\Minf_Tp4\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\DSY\MINF\TP4\Minf_Tp4\bin\Debug\Newtonsoft.Json.xml
+C:\DSY\MINF\TP4\Minf_Tp4\bin\Debug\System.Buffers.xml
+C:\DSY\MINF\TP4\Minf_Tp4\bin\Debug\System.Collections.Immutable.xml
+C:\DSY\MINF\TP4\Minf_Tp4\bin\Debug\System.IO.Pipelines.xml
+C:\DSY\MINF\TP4\Minf_Tp4\bin\Debug\System.Memory.xml
+C:\DSY\MINF\TP4\Minf_Tp4\bin\Debug\System.Numerics.Vectors.xml
+C:\DSY\MINF\TP4\Minf_Tp4\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\DSY\MINF\TP4\Minf_Tp4\bin\Debug\System.Text.Encodings.Web.xml
+C:\DSY\MINF\TP4\Minf_Tp4\bin\Debug\System.Text.Json.xml
+C:\DSY\MINF\TP4\Minf_Tp4\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\DSY\MINF\TP4\Minf_Tp4\bin\Debug\System.ValueTuple.xml
+C:\DSY\MINF\TP4\Minf_Tp4\obj\Debug\Minf_Tp4.csproj.CopyComplete
+C:\DSY\MINF\TP4\Minf_Tp4\bin\Debug\ReaLTaiizor.dll
+C:\DSY\MINF\TP4\Minf_Tp4\bin\Debug\ReaLTaiizor.xml
+C:\Users\savar\OneDrive - Education Vaud\ETML_ES\Minf_Tp4\Minf_Tp4\bin\Debug\Minf_Tp4.exe.config
+C:\Users\savar\OneDrive - Education Vaud\ETML_ES\Minf_Tp4\Minf_Tp4\bin\Debug\Minf_Tp4.exe
+C:\Users\savar\OneDrive - Education Vaud\ETML_ES\Minf_Tp4\Minf_Tp4\bin\Debug\Minf_Tp4.pdb
+C:\Users\savar\OneDrive - Education Vaud\ETML_ES\Minf_Tp4\Minf_Tp4\bin\Debug\Guna.UI2.dll
+C:\Users\savar\OneDrive - Education Vaud\ETML_ES\Minf_Tp4\Minf_Tp4\bin\Debug\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\savar\OneDrive - Education Vaud\ETML_ES\Minf_Tp4\Minf_Tp4\bin\Debug\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\savar\OneDrive - Education Vaud\ETML_ES\Minf_Tp4\Minf_Tp4\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\savar\OneDrive - Education Vaud\ETML_ES\Minf_Tp4\Minf_Tp4\bin\Debug\Newtonsoft.Json.dll
+C:\Users\savar\OneDrive - Education Vaud\ETML_ES\Minf_Tp4\Minf_Tp4\bin\Debug\QRCoder.dll
+C:\Users\savar\OneDrive - Education Vaud\ETML_ES\Minf_Tp4\Minf_Tp4\bin\Debug\ReaLTaiizor.dll
+C:\Users\savar\OneDrive - Education Vaud\ETML_ES\Minf_Tp4\Minf_Tp4\bin\Debug\SiticoneNetFrameworkUI.dll
+C:\Users\savar\OneDrive - Education Vaud\ETML_ES\Minf_Tp4\Minf_Tp4\bin\Debug\System.Buffers.dll
+C:\Users\savar\OneDrive - Education Vaud\ETML_ES\Minf_Tp4\Minf_Tp4\bin\Debug\System.Collections.Immutable.dll
+C:\Users\savar\OneDrive - Education Vaud\ETML_ES\Minf_Tp4\Minf_Tp4\bin\Debug\System.IO.Pipelines.dll
+C:\Users\savar\OneDrive - Education Vaud\ETML_ES\Minf_Tp4\Minf_Tp4\bin\Debug\System.Memory.dll
+C:\Users\savar\OneDrive - Education Vaud\ETML_ES\Minf_Tp4\Minf_Tp4\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\savar\OneDrive - Education Vaud\ETML_ES\Minf_Tp4\Minf_Tp4\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\savar\OneDrive - Education Vaud\ETML_ES\Minf_Tp4\Minf_Tp4\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\savar\OneDrive - Education Vaud\ETML_ES\Minf_Tp4\Minf_Tp4\bin\Debug\System.Text.Json.dll
+C:\Users\savar\OneDrive - Education Vaud\ETML_ES\Minf_Tp4\Minf_Tp4\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\savar\OneDrive - Education Vaud\ETML_ES\Minf_Tp4\Minf_Tp4\bin\Debug\System.ValueTuple.dll
+C:\Users\savar\OneDrive - Education Vaud\ETML_ES\Minf_Tp4\Minf_Tp4\bin\Debug\Microsoft.AspNetCore.Cryptography.Internal.xml
+C:\Users\savar\OneDrive - Education Vaud\ETML_ES\Minf_Tp4\Minf_Tp4\bin\Debug\Microsoft.AspNetCore.Cryptography.KeyDerivation.xml
+C:\Users\savar\OneDrive - Education Vaud\ETML_ES\Minf_Tp4\Minf_Tp4\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\savar\OneDrive - Education Vaud\ETML_ES\Minf_Tp4\Minf_Tp4\bin\Debug\Newtonsoft.Json.xml
+C:\Users\savar\OneDrive - Education Vaud\ETML_ES\Minf_Tp4\Minf_Tp4\bin\Debug\ReaLTaiizor.xml
+C:\Users\savar\OneDrive - Education Vaud\ETML_ES\Minf_Tp4\Minf_Tp4\bin\Debug\System.Buffers.xml
+C:\Users\savar\OneDrive - Education Vaud\ETML_ES\Minf_Tp4\Minf_Tp4\bin\Debug\System.Collections.Immutable.xml
+C:\Users\savar\OneDrive - Education Vaud\ETML_ES\Minf_Tp4\Minf_Tp4\bin\Debug\System.IO.Pipelines.xml
+C:\Users\savar\OneDrive - Education Vaud\ETML_ES\Minf_Tp4\Minf_Tp4\bin\Debug\System.Memory.xml
+C:\Users\savar\OneDrive - Education Vaud\ETML_ES\Minf_Tp4\Minf_Tp4\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\savar\OneDrive - Education Vaud\ETML_ES\Minf_Tp4\Minf_Tp4\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\savar\OneDrive - Education Vaud\ETML_ES\Minf_Tp4\Minf_Tp4\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\savar\OneDrive - Education Vaud\ETML_ES\Minf_Tp4\Minf_Tp4\bin\Debug\System.Text.Json.xml
+C:\Users\savar\OneDrive - Education Vaud\ETML_ES\Minf_Tp4\Minf_Tp4\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\savar\OneDrive - Education Vaud\ETML_ES\Minf_Tp4\Minf_Tp4\bin\Debug\System.ValueTuple.xml
+C:\Users\savar\OneDrive - Education Vaud\ETML_ES\Minf_Tp4\Minf_Tp4\obj\Debug\Minf_Tp4.csproj.AssemblyReference.cache
+C:\Users\savar\OneDrive - Education Vaud\ETML_ES\Minf_Tp4\Minf_Tp4\obj\Debug\Minf_Tp4.Form1.resources
+C:\Users\savar\OneDrive - Education Vaud\ETML_ES\Minf_Tp4\Minf_Tp4\obj\Debug\Minf_Tp4.Properties.Resources.resources
+C:\Users\savar\OneDrive - Education Vaud\ETML_ES\Minf_Tp4\Minf_Tp4\obj\Debug\Minf_Tp4.csproj.GenerateResource.cache
+C:\Users\savar\OneDrive - Education Vaud\ETML_ES\Minf_Tp4\Minf_Tp4\obj\Debug\Minf_Tp4.csproj.CoreCompileInputs.cache
+C:\Users\savar\OneDrive - Education Vaud\ETML_ES\Minf_Tp4\Minf_Tp4\obj\Debug\Minf_Tp4.csproj.Up2Date
+C:\Users\savar\OneDrive - Education Vaud\ETML_ES\Minf_Tp4\Minf_Tp4\obj\Debug\Minf_Tp4.exe
+C:\Users\savar\OneDrive - Education Vaud\ETML_ES\Minf_Tp4\Minf_Tp4\obj\Debug\Minf_Tp4.pdb
+C:\Users\diesavary\OneDrive - Education Vaud\ETML_ES\Minf_Tp4\Minf_Tp4\bin\Debug\Minf_Tp4.exe.config
+C:\Users\diesavary\OneDrive - Education Vaud\ETML_ES\Minf_Tp4\Minf_Tp4\bin\Debug\Minf_Tp4.exe
+C:\Users\diesavary\OneDrive - Education Vaud\ETML_ES\Minf_Tp4\Minf_Tp4\bin\Debug\Minf_Tp4.pdb
+C:\Users\diesavary\OneDrive - Education Vaud\ETML_ES\Minf_Tp4\Minf_Tp4\bin\Debug\Guna.UI2.dll
+C:\Users\diesavary\OneDrive - Education Vaud\ETML_ES\Minf_Tp4\Minf_Tp4\bin\Debug\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\diesavary\OneDrive - Education Vaud\ETML_ES\Minf_Tp4\Minf_Tp4\bin\Debug\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\diesavary\OneDrive - Education Vaud\ETML_ES\Minf_Tp4\Minf_Tp4\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\diesavary\OneDrive - Education Vaud\ETML_ES\Minf_Tp4\Minf_Tp4\bin\Debug\Newtonsoft.Json.dll
+C:\Users\diesavary\OneDrive - Education Vaud\ETML_ES\Minf_Tp4\Minf_Tp4\bin\Debug\QRCoder.dll
+C:\Users\diesavary\OneDrive - Education Vaud\ETML_ES\Minf_Tp4\Minf_Tp4\bin\Debug\ReaLTaiizor.dll
+C:\Users\diesavary\OneDrive - Education Vaud\ETML_ES\Minf_Tp4\Minf_Tp4\bin\Debug\SiticoneNetFrameworkUI.dll
+C:\Users\diesavary\OneDrive - Education Vaud\ETML_ES\Minf_Tp4\Minf_Tp4\bin\Debug\System.Buffers.dll
+C:\Users\diesavary\OneDrive - Education Vaud\ETML_ES\Minf_Tp4\Minf_Tp4\bin\Debug\System.Collections.Immutable.dll
+C:\Users\diesavary\OneDrive - Education Vaud\ETML_ES\Minf_Tp4\Minf_Tp4\bin\Debug\System.IO.Pipelines.dll
+C:\Users\diesavary\OneDrive - Education Vaud\ETML_ES\Minf_Tp4\Minf_Tp4\bin\Debug\System.Memory.dll
+C:\Users\diesavary\OneDrive - Education Vaud\ETML_ES\Minf_Tp4\Minf_Tp4\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\diesavary\OneDrive - Education Vaud\ETML_ES\Minf_Tp4\Minf_Tp4\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\diesavary\OneDrive - Education Vaud\ETML_ES\Minf_Tp4\Minf_Tp4\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\diesavary\OneDrive - Education Vaud\ETML_ES\Minf_Tp4\Minf_Tp4\bin\Debug\System.Text.Json.dll
+C:\Users\diesavary\OneDrive - Education Vaud\ETML_ES\Minf_Tp4\Minf_Tp4\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\diesavary\OneDrive - Education Vaud\ETML_ES\Minf_Tp4\Minf_Tp4\bin\Debug\System.ValueTuple.dll
+C:\Users\diesavary\OneDrive - Education Vaud\ETML_ES\Minf_Tp4\Minf_Tp4\bin\Debug\Microsoft.AspNetCore.Cryptography.Internal.xml
+C:\Users\diesavary\OneDrive - Education Vaud\ETML_ES\Minf_Tp4\Minf_Tp4\bin\Debug\Microsoft.AspNetCore.Cryptography.KeyDerivation.xml
+C:\Users\diesavary\OneDrive - Education Vaud\ETML_ES\Minf_Tp4\Minf_Tp4\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\diesavary\OneDrive - Education Vaud\ETML_ES\Minf_Tp4\Minf_Tp4\bin\Debug\Newtonsoft.Json.xml
+C:\Users\diesavary\OneDrive - Education Vaud\ETML_ES\Minf_Tp4\Minf_Tp4\bin\Debug\ReaLTaiizor.xml
+C:\Users\diesavary\OneDrive - Education Vaud\ETML_ES\Minf_Tp4\Minf_Tp4\bin\Debug\System.Buffers.xml
+C:\Users\diesavary\OneDrive - Education Vaud\ETML_ES\Minf_Tp4\Minf_Tp4\bin\Debug\System.Collections.Immutable.xml
+C:\Users\diesavary\OneDrive - Education Vaud\ETML_ES\Minf_Tp4\Minf_Tp4\bin\Debug\System.IO.Pipelines.xml
+C:\Users\diesavary\OneDrive - Education Vaud\ETML_ES\Minf_Tp4\Minf_Tp4\bin\Debug\System.Memory.xml
+C:\Users\diesavary\OneDrive - Education Vaud\ETML_ES\Minf_Tp4\Minf_Tp4\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\diesavary\OneDrive - Education Vaud\ETML_ES\Minf_Tp4\Minf_Tp4\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\diesavary\OneDrive - Education Vaud\ETML_ES\Minf_Tp4\Minf_Tp4\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\diesavary\OneDrive - Education Vaud\ETML_ES\Minf_Tp4\Minf_Tp4\bin\Debug\System.Text.Json.xml
+C:\Users\diesavary\OneDrive - Education Vaud\ETML_ES\Minf_Tp4\Minf_Tp4\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\diesavary\OneDrive - Education Vaud\ETML_ES\Minf_Tp4\Minf_Tp4\bin\Debug\System.ValueTuple.xml
+C:\Users\diesavary\OneDrive - Education Vaud\ETML_ES\Minf_Tp4\Minf_Tp4\obj\Debug\Minf_Tp4.csproj.AssemblyReference.cache
+C:\Users\diesavary\OneDrive - Education Vaud\ETML_ES\Minf_Tp4\Minf_Tp4\obj\Debug\Minf_Tp4.Form1.resources
+C:\Users\diesavary\OneDrive - Education Vaud\ETML_ES\Minf_Tp4\Minf_Tp4\obj\Debug\Minf_Tp4.Properties.Resources.resources
+C:\Users\diesavary\OneDrive - Education Vaud\ETML_ES\Minf_Tp4\Minf_Tp4\obj\Debug\Minf_Tp4.csproj.GenerateResource.cache
+C:\Users\diesavary\OneDrive - Education Vaud\ETML_ES\Minf_Tp4\Minf_Tp4\obj\Debug\Minf_Tp4.csproj.CoreCompileInputs.cache
+C:\Users\diesavary\OneDrive - Education Vaud\ETML_ES\Minf_Tp4\Minf_Tp4\obj\Debug\Minf_Tp4.csproj.CopyComplete
+C:\Users\diesavary\OneDrive - Education Vaud\ETML_ES\Minf_Tp4\Minf_Tp4\obj\Debug\Minf_Tp4.exe
+C:\Users\diesavary\OneDrive - Education Vaud\ETML_ES\Minf_Tp4\Minf_Tp4\obj\Debug\Minf_Tp4.pdb
